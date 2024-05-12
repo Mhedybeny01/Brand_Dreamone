@@ -1,0 +1,268 @@
+@media screen and (max-width : 480px){
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 0%;
+    margin: 0%;
+    max-width: 100%;
+}
+
+
+a i {
+   height: 30px;
+   width: 70px;
+   font-size: 30px;
+   position: absolute;
+   top: 30px;
+   border-radius: 20px;
+   color: white;
+   left: 82%;
+}
+.a2 b {
+    height: 30px;
+    width: 70px;
+    font-size: 30px;
+    position: absolute;
+    top: 30px;
+    color: white;
+    border-radius: 20px;
+    left: 72%;
+ }
+
+img{
+    width: 100%;
+    height: 800px;
+   
+}
+h2{
+    position: absolute;
+    top: 16px;
+    left: 30px;
+    color: white;
+    font-size: 20px;
+}
+.title1{
+position: absolute;
+top: 210px;
+font-size: 38px;
+left: 23px;
+}
+h3{
+    position: absolute;
+    top: 315px;
+    left: 23px;
+    font-size: 15px;
+    color: rgb(218, 255, 180);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.email{
+position: absolute;
+top: 410px;
+left: 30px;
+height: 30px;
+width: 200px;
+background-color: transparent;
+border: 1px solid white;
+color: white;
+}
+.email:hover{
+    border: 1px solid rgb(93, 184, 2);
+}
+button{
+    position: absolute;
+    top: 410px;
+    left: 240px;
+    width: 100px;
+    height: 34px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+button:hover{
+    border: 1px solid rgb(218, 255, 180);
+}
+.back2{
+    background-color: black;
+    height: 3700px;
+    position: relative;
+    top: -5px;
+
+}
+.tst1{
+    position: absolute;
+    left: 30px;
+    font-size: 26px;
+    color:  rgb(218, 255, 180);
+    top: 5px;
+}
+.ts1{
+    position: absolute;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price1{
+    position: absolute;
+    top:380px ;
+    left: 50px;
+}
+.buy{
+    position: absolute;
+    top: 460px;
+    left: 140px;
+    border: 1px solid  rgb(218, 255, 180);
+}
+.buy:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+.ts2{
+    position: absolute;
+    top: 560px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price2{
+    position: absolute;
+    top:840px ;
+    left: 50px;
+}
+.buy2{
+    position: absolute;
+    top: 910px;
+    left: 140px;
+    border: 1px solid  rgb(218, 255, 180);
+}
+.buy2:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+
+.ts3{
+    position: absolute;
+    top: 960px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price3{
+    position: absolute;
+    top:1250px ;
+    left: 50px;
+}
+.buy3{
+    position: absolute;
+    top: 1330px;
+    left: 140px;
+    border: 1px solid  rgb(218, 255, 180);
+}
+.buy3:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+
+.ts4{
+    position: absolute;
+    top: 1380px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price4{
+    position: absolute;
+    top:1670px ;
+    left: 50px;
+}
+.buy4{
+    position: absolute;
+    top: 1750px;
+    left: 140px;
+    border: 1px solid  rgb(218, 255, 180);
+}
+.buy4:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+
+.ts5{
+    position: absolute;
+    top: 1800px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price5{
+    position: absolute;
+    top:2085px ;
+    left: 50px;
+}
+.buy5{
+    position: absolute;
+    top: 2170px;
+    left: 140px;
+    border: 1px solid  rgb(218, 255, 180);
+}
+.buy5:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+
+.boys{
+    position: absolute;
+    left: 20px;
+    font-size: 26px;
+    color:  rgb(218, 255, 180);
+    top: 2300px;
+}
+.ts6{
+    position: absolute;
+    top: 2450px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price6{
+    position: absolute;
+    top:2775px ;
+    left: 50px;
+}
+.buy6{
+    position: absolute;
+    top: 2850px;
+    left: 140px;
+    border: 1px solid  rgb(218, 255, 180);
+}
+.buy5:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+.ts11{
+    position: absolute;
+    top: 2900px;
+    height: 300px;
+    width: 300px;
+    left: 40px;
+}
+.price11{
+    position: absolute;
+    top:3175px ;
+    left: 50px;
+}
+.buy11{
+    position: absolute;
+    top: 3250px;
+    left: 140px;
+    border: 1px solid  rgb(218, 255, 180);
+}
+.buy11:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
