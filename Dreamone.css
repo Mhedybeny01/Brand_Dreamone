@@ -5,28 +5,29 @@ body {
     padding: 0%;
     margin: 0%;
     max-width: 100%;
+    color: white;
 }
 
 
 a i {
    height: 30px;
    width: 70px;
-   font-size: 20px;
+   font-size: 25px;
    position: absolute;
    top: 60px;
    border-radius: 20px;
    color: rgb(218, 255, 180);;
-   left: 82%;
+   left: 84%;
 }
 .a2 b {
     height: 30px;
     width: 70px;
-    font-size: 20px;
+    font-size: 25px;
     position: absolute;
     top: 60px;
     color: rgb(218, 255, 180);
     border-radius: 20px;
-    left: 72%;
+    left: 74%;
  }
 
 img{
@@ -37,7 +38,7 @@ img{
 .dream{
     position: absolute;
     top: px;
-    left: 30px;
+    left: 20px;
     color: white;
     font-size: 20px;
 
