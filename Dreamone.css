@@ -13,9 +13,9 @@ a i {
    width: 70px;
    font-size: 20px;
    position: absolute;
-   top: 30px;
+   top: 60px;
    border-radius: 20px;
-   color: white;
+   color: rgb(218, 255, 180);;
    left: 82%;
 }
 .a2 b {
@@ -23,8 +23,8 @@ a i {
     width: 70px;
     font-size: 20px;
     position: absolute;
-    top: 30px;
-    color: white;
+    top: 60px;
+    color: rgb(218, 255, 180);
     border-radius: 20px;
     left: 72%;
  }
@@ -34,16 +34,25 @@ img{
     height: 800px;
    
 }
-h2{
+.dream{
     position: absolute;
-    top: 16px;
+    top: px;
     left: 30px;
     color: white;
     font-size: 20px;
+
 }
+.Logodream{
+    position: absolute;
+    top: -10px;
+    height: 140px;
+    width: 140px;
+}
+    
 .title1{
 position: absolute;
 top: 210px;
+color: white;
 font-size: 38px;
 left: 23px;
 }
@@ -61,6 +70,7 @@ top: 410px;
 left: 30px;
 height: 30px;
 width: 200px;
+border-radius: 5px;
 background-color: transparent;
 border: 1px solid white;
 color: white;
@@ -74,6 +84,7 @@ button{
     left: 240px;
     width: 100px;
     height: 34px;
+    border-radius: 5px;
     background-color: transparent;
     border: 1px solid white;
     color: white;
