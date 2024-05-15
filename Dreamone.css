@@ -95,33 +95,111 @@ button:hover{
 }
 .back2{
     background-color: black;
-    height: 3700px;
+    height: 6700px;
     position: relative;
     top: -5px;
 
+}
+.premiretexte{
+
+height: 500px;
+}
+.imgtitre{
+    position: absolute;
+    top: 180px;
+    left: 140px;
+    height: 170px;
+    width: 180px;
+}
+.dreamone1{
+position: absolute;
+top: 350px;
+height: 100px;
+width: 100px;
+left: 20px;
+border-radius: 50%;
+border:0px;
+}
+.dre1{
+position: absolute;
+top: 430px;
+font-size: 17px;
+left: 43px;
+
+}
+
+.dreamone2{
+    position: absolute;
+    top: 350px;
+    height: 100px;
+    width: 100px;
+    left: 180px;
+    border-radius: 50%;
+    border:0px;
+    }
+    .dre2{
+    position: absolute;
+    top: 430px;
+    font-size: 17px;
+    left: 200px;
+    
+    }
+
+    .dreamone3{
+        position: absolute;
+        top: 319px;
+        height: 150px;
+        width: 150px;
+        left: 320px;
+        border-radius: 50%;
+        border:0px;
+        }
+        .dre3{
+        position: absolute;
+        top: 430px;
+        font-size: 17px;
+        left: 373px;
+        
+        }
+.texte1{
+position: absolute;
+top: 30px;
+padding: 5px;
+margin: 5px;
+font-size: 27px;
+color: rgb(218, 255, 180);
+
+}
+.texte2{
+position: absolute;
+top: 90px;
+padding: 7px;
+margin: 7px;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .tst1{
     position: absolute;
     left: 30px;
     font-size: 26px;
     color:  rgb(218, 255, 180);
-    top: 5px;
+    top: 505px;
 }
 .ts1{
     position: absolute;
-    top: 100px;
+    top: 600px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price1{
     position: absolute;
-    top:380px ;
+    top:880px ;
     left: 50px;
 }
 .buy{
     position: absolute;
-    top: 460px;
+    top: 960px;
     left: 140px;
     border: 1px solid  rgb(218, 255, 180);
 }
@@ -130,19 +208,19 @@ button:hover{
 }
 .ts2{
     position: absolute;
-    top: 560px;
+    top: 1060px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price2{
     position: absolute;
-    top:840px ;
+    top:1340px ;
     left: 50px;
 }
 .buy2{
     position: absolute;
-    top: 910px;
+    top: 1410px;
     left: 140px;
     border: 1px solid  rgb(218, 255, 180);
 }
@@ -152,19 +230,19 @@ button:hover{
 
 .ts3{
     position: absolute;
-    top: 960px;
+    top: 1480px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price3{
     position: absolute;
-    top:1250px ;
+    top:1750px ;
     left: 50px;
 }
 .buy3{
     position: absolute;
-    top: 1330px;
+    top: 1830px;
     left: 140px;
     border: 1px solid  rgb(218, 255, 180);
 }
@@ -174,19 +252,19 @@ button:hover{
 
 .ts4{
     position: absolute;
-    top: 1380px;
+    top: 1890px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price4{
     position: absolute;
-    top:1670px ;
+    top:2170px ;
     left: 50px;
 }
 .buy4{
     position: absolute;
-    top: 1750px;
+    top: 2250px;
     left: 140px;
     border: 1px solid  rgb(218, 255, 180);
 }
@@ -196,19 +274,19 @@ button:hover{
 
 .ts5{
     position: absolute;
-    top: 1800px;
+    top: 2300px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price5{
     position: absolute;
-    top:2085px ;
+    top:2585px ;
     left: 50px;
 }
 .buy5{
     position: absolute;
-    top: 2170px;
+    top: 2670px;
     left: 140px;
     border: 1px solid  rgb(218, 255, 180);
 }
@@ -221,23 +299,23 @@ button:hover{
     left: 20px;
     font-size: 26px;
     color:  rgb(218, 255, 180);
-    top: 2300px;
+    top: 2800px;
 }
 .ts6{
     position: absolute;
-    top: 2450px;
+    top: 2950px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price6{
     position: absolute;
-    top:2775px ;
+    top:3250px ;
     left: 50px;
 }
 .buy6{
     position: absolute;
-    top: 2850px;
+    top: 3340px;
     left: 140px;
     border: 1px solid  rgb(218, 255, 180);
 }
@@ -246,19 +324,19 @@ button:hover{
 }
 .ts11{
     position: absolute;
-    top: 2900px;
+    top: 3400px;
     height: 300px;
     width: 300px;
     left: 40px;
 }
 .price11{
     position: absolute;
-    top:3175px ;
+    top:3675px ;
     left: 50px;
 }
 .buy11{
     position: absolute;
-    top: 3250px;
+    top: 3750px;
     left: 140px;
     border: 1px solid  rgb(218, 255, 180);
 }
