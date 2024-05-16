@@ -104,19 +104,19 @@ button:hover{
 
 .ts1{
     position: absolute;
-    top: 600px;
+    top: 950px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price1{
     position: absolute;
-    top:880px ;
+    top:1250px ;
     left: 50px;
 }
 .buy{
     position: absolute;
-    top: 960px;
+    top: 1320px;
     left: 140px;
     background-color: transparent;
         height: 30px;
@@ -131,19 +131,19 @@ button:hover{
 }
 .ts2{
     position: absolute;
-    top: 1060px;
+    top: 1380px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price2{
     position: absolute;
-    top:1340px ;
+    top:1660px ;
     left: 50px;
 }
 .buy2{
     position: absolute;
-    top: 1410px;
+    top: 1730px;
     left: 140px;
     height: 30px;
     width: 80px;
@@ -158,19 +158,19 @@ button:hover{
 
 .ts3{
     position: absolute;
-    top: 1480px;
+    top: 1780px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price3{
     position: absolute;
-    top:1750px ;
+    top:2050px ;
     left: 50px;
 }
 .buy3{
     position: absolute;
-    top: 1830px;
+    top: 2120px;
     left: 140px;
     height: 30px;
     width: 80px;
@@ -185,19 +185,19 @@ button:hover{
 
 .ts4{
     position: absolute;
-    top: 1890px;
+    top: 2190px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price4{
     position: absolute;
-    top:2170px ;
+    top:2470px ;
     left: 50px;
 }
 .buy4{
     position: absolute;
-    top: 2250px;
+    top: 2540px;
     left: 140px;
     height: 30px;
     width: 80px;
@@ -212,19 +212,19 @@ button:hover{
 
 .ts5{
     position: absolute;
-    top: 2300px;
+    top: 2600px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price5{
     position: absolute;
-    top:2585px ;
+    top:2885px ;
     left: 50px;
 }
 .buy5{
     position: absolute;
-    top: 2670px;
+    top: 2955px;
     left: 140px;
     height: 30px;
     width: 80px;
@@ -241,24 +241,24 @@ button:hover{
     position: absolute;
     left: 20px;
     font-size: 26px;
-    color:  rgb(218, 255, 180);
-    top: 2800px;
+    color:  rgb(187, 255, 119);
+    top: 3100px;
 }
 .ts6{
     position: absolute;
-    top: 2950px;
+    top: 3270px;
     height: 300px;
     width: 300px;
     left: 45px;
 }
 .price6{
     position: absolute;
-    top:3250px ;
+    top:3580px ;
     left: 50px;
 }
 .buy6{
     position: absolute;
-    top: 3340px;
+    top: 3650px;
     left: 140px;
     height: 30px;
     width: 80px;
@@ -272,19 +272,19 @@ button:hover{
 }
 .ts11{
     position: absolute;
-    top: 3400px;
+    top: 3700px;
     height: 300px;
     width: 300px;
     left: 40px;
 }
 .price11{
     position: absolute;
-    top:3675px ;
+    top:3975px ;
     left: 50px;
 }
 .buy11{
     position: absolute;
-    top: 3750px;
+    top: 4040px;
     left: 140px;
     height: 30px;
     width: 80px;
@@ -296,6 +296,127 @@ button:hover{
 .buy11:hover{
     border: 1px solid  rgb(157, 255, 59);
 }
+.caps{
+    position: absolute;
+    top: 4200px;
+    left: 25px;
+    color: rgb(187, 255, 119);
+}
+.CAP1{
+position: absolute;
+top: 4300px;
+height: 250px;
+width: 200px;
+}
+.CAPE1{
+position: absolute;
+top:4360px ;
+left: 200px;
+}
+.buyCAP1{
+position: absolute;
+top: 4445px;
+left: 270px;
+background-color: transparent;
+border: 1px solid rgb(187, 255, 119);
+height: 30px;
+width: 80px;
+border-radius: 10px;
+color: rgb(187, 255, 119);
+}
+.buyCAP1:hover{
+    border: 1px solid rgb(138, 255, 21);
+}
+
+
+
+.CAP2{
+    position: absolute;
+    top: 4500px;
+    height: 250px;
+    width: 200px;
+    }
+    .CAPE2{
+    position: absolute;
+    top:4560px ;
+    left: 200px;
+    }
+    .buyCAP2{
+    position: absolute;
+    top: 4645px;
+    left: 270px;
+    background-color: transparent;
+    border: 1px solid rgb(187, 255, 119);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color: rgb(187, 255, 119);
+    }
+    .buyCAP2:hover{
+        border: 1px solid rgb(138, 255, 21);
+    }
+
+
+
+
+    .CAP3{
+        position: absolute;
+        top: 4700px;
+        height: 250px;
+        width: 200px;
+        }
+        .CAPE3{
+        position: absolute;
+        top:4760px ;
+        left: 200px;
+        }
+        .buyCAP3{
+        position: absolute;
+        top: 4845px;
+        left: 270px;
+        background-color: transparent;
+        border: 1px solid rgb(187, 255, 119);
+        height: 30px;
+        width: 80px;
+        border-radius: 10px;
+        color: rgb(187, 255, 119);
+        }
+        .buyCAP3:hover{
+            border: 1px solid rgb(138, 255, 21);
+        }
+
+
+
+
+
+        .CAP4{
+            position: absolute;
+            top: 4900px;
+            height: 250px;
+            width: 200px;
+            }
+            .CAPE4{
+            position: absolute;
+            top:4960px ;
+            left: 200px;
+            }
+            .buyCAP4{
+                position: absolute;
+                top: 5045px;
+                left: 270px;
+                background-color: transparent;
+                border: 1px solid rgb(187, 255, 119);
+                height: 30px;
+                width: 80px;
+                border-radius: 10px;
+                color: rgb(187, 255, 119);
+            }
+            .buyCAP1:hover{
+                border: 1px solid rgb(138, 255, 21);
+            }
+
+
+
 
 
 
