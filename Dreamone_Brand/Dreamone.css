@@ -30,10 +30,10 @@ a i {
     left: 74%;
  }
 
-img{
+.ft1{
     width: 100%;
-    height: 800px;
-   
+    height: 600px;
+  
 }
 .dream{
     position: absolute;
@@ -79,7 +79,7 @@ color: white;
 .email:hover{
     border: 1px solid rgb(93, 184, 2);
 }
-button{
+.open{
     position: absolute;
     top: 410px;
     left: 240px;
@@ -100,91 +100,8 @@ button:hover{
     top: -5px;
 
 }
-.premiretexte{
 
-height: 500px;
-}
-.imgtitre{
-    position: absolute;
-    top: 180px;
-    left: 140px;
-    height: 170px;
-    width: 180px;
-}
-.dreamone1{
-position: absolute;
-top: 350px;
-height: 100px;
-width: 100px;
-left: 20px;
-border-radius: 50%;
-border:0px;
-}
-.dre1{
-position: absolute;
-top: 430px;
-font-size: 17px;
-left: 43px;
 
-}
-
-.dreamone2{
-    position: absolute;
-    top: 350px;
-    height: 100px;
-    width: 100px;
-    left: 180px;
-    border-radius: 50%;
-    border:0px;
-    }
-    .dre2{
-    position: absolute;
-    top: 430px;
-    font-size: 17px;
-    left: 200px;
-    
-    }
-
-    .dreamone3{
-        position: absolute;
-        top: 319px;
-        height: 150px;
-        width: 150px;
-        left: 320px;
-        border-radius: 50%;
-        border:0px;
-        }
-        .dre3{
-        position: absolute;
-        top: 430px;
-        font-size: 17px;
-        left: 373px;
-        
-        }
-.texte1{
-position: absolute;
-top: 30px;
-padding: 5px;
-margin: 5px;
-font-size: 27px;
-color: rgb(218, 255, 180);
-
-}
-.texte2{
-position: absolute;
-top: 90px;
-padding: 7px;
-margin: 7px;
-font-size: 20px;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-.tst1{
-    position: absolute;
-    left: 30px;
-    font-size: 26px;
-    color:  rgb(218, 255, 180);
-    top: 505px;
-}
 .ts1{
     position: absolute;
     top: 600px;
@@ -201,7 +118,13 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 960px;
     left: 140px;
-    border: 1px solid  rgb(218, 255, 180);
+    background-color: transparent;
+        height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
 }
 .buy:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -222,7 +145,12 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 1410px;
     left: 140px;
-    border: 1px solid  rgb(218, 255, 180);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
 }
 .buy2:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -244,7 +172,12 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 1830px;
     left: 140px;
-    border: 1px solid  rgb(218, 255, 180);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
 }
 .buy3:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -266,7 +199,12 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 2250px;
     left: 140px;
-    border: 1px solid  rgb(218, 255, 180);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
 }
 .buy4:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -288,7 +226,12 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 2670px;
     left: 140px;
-    border: 1px solid  rgb(218, 255, 180);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
 }
 .buy5:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -317,7 +260,12 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 3340px;
     left: 140px;
-    border: 1px solid  rgb(218, 255, 180);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
 }
 .buy5:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -338,7 +286,12 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 3750px;
     left: 140px;
-    border: 1px solid  rgb(218, 255, 180);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
 }
 .buy11:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -346,13 +299,306 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 
 
+}
+@media screen and (min-width:481px) {
+    body {
+        font-family: Arial, sans-serif;
+        padding: 0%;
+        margin: 0%;
+        max-width: 100%;
+        color: white;
+    }
+    
+    
+    a i {
+       height: 30px;
+       width: 70px;
+       font-size: 25px;
+       position: absolute;
+       top: 46px;
+       border-radius: 20px;
+       color: rgb(218, 255, 180);;
+       left: 92%;
+    }
+    .a2 b {
+        height: 30px;
+        width: 70px;
+        font-size: 25px;
+        position: absolute;
+        top: 46px;
+        color: rgb(218, 255, 180);
+        border-radius: 20px;
+        left: 88%;
+     }
+    
+    .ft1{
+        width: 100%;
+        height: 650px;
+       
+    }
+    .dream{
+        position: absolute;
+        top: px;
+        left: -10px;
+        color: white;
+        font-size: 20px;
+    
+    }
+    .Logodream{
+        position: absolute;
+        top: -10px;
+        height: 130px;
+        width: 130px;
+        left: 40px;
+    }
+        
+    .title1{
+    position: absolute;
+    top: 180px;
+    color: white;
+    font-size: 48px;
+    left: 23px;
+    }
+    h3{
+        position: absolute;
+        top: 255px;
+        left: 23px;
+        font-size: 25px;
+        color: rgb(218, 255, 180);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .email{
+    position: absolute;
+    top: 380px;
+    left: 27px;
+    height: 30px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    }
+    .email:hover{
+        border: 1px solid rgb(93, 184, 2);
+    }
+    .open{
+        position: absolute;
+        top: 380px;
+        left: 540px;
+        width: 100px;
+        height: 34px;
+        border-radius: 5px;
+        background-color: transparent;
+        border: 1px solid white;
+        color: white;
+    }
+    button:hover{
+        border: 1px solid rgb(218, 255, 180);
+    }
+    .back2{
+        background-color: black;
+        height: 6700px;
+        position: relative;
+        top: -5px;
+    
+    }
+    
 
 
+    
+.ts1{
+    position: absolute;
+    top: 1080px;
+    height: 280px;
+    width: 280px;
+    left: 530px;
+}
+.price1{
+    position: absolute;
+    top:1340px ;
+    left: 530px;
+}
+.buy{
+    position: absolute;
+    top: 1410px;
+    left: 640px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
+}
+.buy:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+.ts2{
+    position: absolute;
+    top: 1060px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price2{
+    position: absolute;
+    top:1340px ;
+    left: 50px;
+}
+.buy2{
+    position: absolute;
+    top: 1410px;
+    left: 140px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
+}
+.buy2:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+
+.ts3{
+    position: absolute;
+    top: 1060px;
+    height: 320px;
+    width: 320px;
+    left: 965px;
+}
+.price3{
+    position: absolute;
+    top:1340px ;
+    left: 1000px;
+}
+.buy3{
+    position: absolute;
+    top: 1410px;
+    left: 1105px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
+}
+.buy3:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+
+.ts4{
+    position: absolute;
+    top: 1590px;
+    height: 300px;
+    width: 300px;
+    left: 530px;
+}
+.price4{
+    position: absolute;
+    top:1870px ;
+    left: 530px;
+}
+.buy4{
+    position: absolute;
+    top: 1950px;
+    left: 640px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
+}
+.buy4:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
 
 
+.ts5{
+    position: absolute;
+    top: 1590px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price5{
+    position: absolute;
+    top:1870px ;
+    left: 50px;
+}
+.buy5{
+    position: absolute;
+    top: 1950px;
+    left: 140px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
+}
+.buy5:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
 
-
-
-
+.boys{
+    position: absolute;
+    left: 400px;
+    font-size: 38px;
+    color:  rgb(218, 255, 180);
+    top: 2100px;
+}
+.ts6{
+    position: absolute;
+    top: 2350px;
+    height: 300px;
+    width: 300px;
+    left: 45px;
+}
+.price6{
+    position: absolute;
+    top:2650px ;
+    left: 50px;
+}
+.buy6{
+    position: absolute;
+    top: 2723px;
+    left: 140px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
+}
+.buy5:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
+.ts11{
+    position: absolute;
+    top: 2350px;
+    height: 300px;
+    width: 300px;
+    left: 530px;
+}
+.price11{
+    position: absolute;
+    top:2650px ;
+    left: 530px;
+}
+.buy11{
+    position: absolute;
+    top: 2723px;
+    left: 640px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color:rgb(187, 255, 119); ;
+    background-color: transparent;
+    border: 1px solid  rgb(187, 255, 119);
+}
+.buy11:hover{
+    border: 1px solid  rgb(157, 255, 59);
+}
 
 }
