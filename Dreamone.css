@@ -429,8 +429,73 @@ color: rgb(187, 255, 119);
         max-width: 100%;
         color: white;
     }
-    
-    
+    .link1{
+        color: rgb(218, 255, 180);
+        position: absolute;
+        top: 46px;
+        left: 440px;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    .link1:hover{
+        color: rgb(178, 255, 101);
+        transition: 0.3s;
+    }
+
+    .link2{
+        color: rgb(218, 255, 180);
+        position: absolute;
+        top: 46px;
+        left: 570px;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .link2:hover{
+        color: rgb(178, 255, 101);
+        transition: 0.3s;
+    }
+
+    .link3{
+        color: rgb(218, 255, 180);
+        position: absolute;
+        top: 46px;
+        left: 720px;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .link3:hover{
+        color: rgb(178, 255, 101);
+        transition: 0.3s;
+    }
+
+    .link4{
+        color: rgb(218, 255, 180);
+        position: absolute;
+        top: 46px;
+        left: 850px;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .link4:hover{
+        color: rgb(178, 255, 101);
+        transition: 0.3s;
+    }
+    .bigt{
+        height: 500px;
+        width: 500px;
+        position: absolute;
+        top:498px ;
+        left: 420px;
+    }
+    .tst1{
+        position: absolute;
+        top: 850px;
+        left: 413px;
+        font-size: 40px;
+        color:   rgb(218, 255, 180);
+    }
+   
     a i {
        height: 30px;
        width: 70px;
@@ -440,6 +505,10 @@ color: rgb(187, 255, 119);
        border-radius: 20px;
        color: rgb(218, 255, 180);;
        left: 92%;
+    }
+    a i:hover{
+        color: rgb(178, 255, 101);
+        transition: 0.3s;
     }
     .a2 b {
         height: 30px;
@@ -451,6 +520,10 @@ color: rgb(187, 255, 119);
         border-radius: 20px;
         left: 88%;
      }
+     .a2 b:hover{
+        color: rgb(178, 255, 101);
+        transition: 0.3s;
+    }
     
     .ft1{
         width: 100%;
@@ -467,7 +540,7 @@ color: rgb(187, 255, 119);
     }
     .Logodream{
         position: absolute;
-        top: -10px;
+        top: -16px;
         height: 130px;
         width: 130px;
         left: 40px;
@@ -501,6 +574,7 @@ color: rgb(187, 255, 119);
     }
     .email:hover{
         border: 1px solid rgb(93, 184, 2);
+        transition: 0.3s;
     }
     .open{
         position: absolute;
@@ -514,11 +588,13 @@ color: rgb(187, 255, 119);
         color: white;
     }
     button:hover{
-        border: 1px solid rgb(218, 255, 180);
+        border: 1px solid rgb(93, 184, 2);
+        transition: 0.3s;
+        color: rgb(93, 184, 2);
     }
     .back2{
         background-color: black;
-        height: 6700px;
+        height: 4000px;
         position: relative;
         top: -5px;
     
@@ -721,5 +797,140 @@ color: rgb(187, 255, 119);
 .buy11:hover{
     border: 1px solid  rgb(157, 255, 59);
 }
+
+
+
+
+
+
+.caps{
+    position: absolute;
+    top: 2900px;
+    left: 400px;
+    font-size: 38px;
+    color:  rgb(218, 255, 180);
+}
+.CAP1{
+position: absolute;
+top:3100px;
+left: 55px;
+height: 350px;
+width: 280px;
+}
+.CAPE1{
+position: absolute;
+top:3380px ;
+font-size: 30px;
+left: 90px;
+}
+.buyCAP1{
+position: absolute;
+top: 3490px;
+left: 150px;
+background-color: transparent;
+border: 1px solid rgb(187, 255, 119);
+height: 30px;
+width: 80px;
+border-radius: 10px;
+color: rgb(187, 255, 119);
+}
+.buyCAP1:hover{
+    border: 1px solid rgb(138, 255, 21);
+}
+
+
+.CAP2{
+    position: absolute;
+    top:3107px;
+    left: 495px;
+    height: 350px;
+    width: 280px;
+    }
+    .CAPE2{
+    position: absolute;
+    top:3380px ;
+    font-size: 30px;
+    left: 533px;
+    }
+    .buyCAP2{
+    position: absolute;
+    top: 3490px;
+    left: 590px;
+    background-color: transparent;
+    border: 1px solid rgb(187, 255, 119);
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color: rgb(187, 255, 119);
+    }
+    .buyCAP1:hover{
+        border: 1px solid rgb(138, 255, 21);
+    }
+    
+
+
+
+    .CAP3{
+        position: absolute;
+        top:3095px;
+        left: 975px;
+        height: 350px;
+        width: 280px;
+        }
+        .CAPE3{
+        position: absolute;
+        top:3380px ;
+        font-size: 30px;
+        left: 1020px;
+        }
+        .buyCAP3{
+        position: absolute;
+        top: 3490px;
+        left: 1080px;
+        background-color: transparent;
+        border: 1px solid rgb(187, 255, 119);
+        height: 30px;
+        width: 80px;
+        border-radius: 10px;
+        color: rgb(187, 255, 119);
+        }
+        .buyCAP1:hover{
+            border: 1px solid rgb(138, 255, 21);
+        }
+
+        .CAP4{
+            position: absolute;
+            top:3550px;
+            left: 55px;
+            height: 350px;
+            width: 280px;
+            }
+            .CAPE4{
+            position: absolute;
+            top:3830px ;
+            font-size: 30px;
+            left: 90px;
+            }
+            .buyCAP4{
+            position: absolute;
+            top: 3940px;
+            left: 150px;
+            background-color: transparent;
+            border: 1px solid rgb(187, 255, 119);
+            height: 30px;
+            width: 80px;
+            border-radius: 10px;
+            color: rgb(187, 255, 119);
+            }
+            .buyCAP1:hover{
+                border: 1px solid rgb(138, 255, 21);
+            }
+.footer{
+    background-color: rgb(169, 253, 85);
+    height: 500px;
+    width: 100%;
+    position: absolute;
+    top: 4150px;
+}       
 
 }
