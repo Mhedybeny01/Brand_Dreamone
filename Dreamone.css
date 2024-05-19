@@ -258,7 +258,7 @@ button:hover{
 
 .boys{
     position: absolute;
-    left: 20px;
+    left: 1px;
     font-size: 26px;
     color:  rgb(187, 255, 119);
     top: 3100px;
@@ -320,7 +320,7 @@ button:hover{
 .caps{
     position: absolute;
     top: 4200px;
-    left: 25px;
+    left: 20px;
     color: rgb(187, 255, 119);
 }
 .CAP1{
@@ -328,16 +328,17 @@ position: absolute;
 top: 4300px;
 height: 250px;
 width: 200px;
+left:-15px;
 }
 .CAPE1{
 position: absolute;
 top:4360px ;
-left: 200px;
+left: 180px;
 }
 .buyCAP1{
 position: absolute;
 top: 4445px;
-left: 270px;
+left: 250px;
 background-color: transparent;
 border: 1px solid rgb(187, 255, 119);
 height: 30px;
@@ -357,16 +358,17 @@ box-shadow: 0px 0px 5px chartreuse;
     top: 4500px;
     height: 250px;
     width: 200px;
+    left:-15px;
     }
     .CAPE2{
     position: absolute;
     top:4560px ;
-    left: 200px;
+    left: 180px;
     }
     .buyCAP2{
     position: absolute;
     top: 4645px;
-    left: 270px;
+    left: 250px;
     background-color: transparent;
     border: 1px solid rgb(187, 255, 119);
     height: 30px;
@@ -387,16 +389,17 @@ box-shadow: 0px 0px 5px chartreuse;
         top: 4700px;
         height: 250px;
         width: 200px;
+        left:-15px;
         }
         .CAPE3{
         position: absolute;
         top:4760px ;
-        left: 200px;
+        left: 180px;
         }
         .buyCAP3{
         position: absolute;
         top: 4845px;
-        left: 270px;
+        left: 250px;
         background-color: transparent;
         border: 1px solid rgb(187, 255, 119);
         height: 30px;
@@ -418,16 +421,17 @@ box-shadow: 0px 0px 5px chartreuse;
             top: 4900px;
             height: 250px;
             width: 200px;
+            left:-15px;
             }
             .CAPE4{
             position: absolute;
             top:4960px ;
-            left: 200px;
+            left: 180px;
             }
             .buyCAP4{
                 position: absolute;
                 top: 5045px;
-                left: 270px;
+                left: 250px;
                 background-color: transparent;
                 border: 1px solid rgb(187, 255, 119);
                 height: 30px;
@@ -495,13 +499,13 @@ box-shadow: 0px 0px 10px chartreuse;
 .commentp{
     position: absolute;
     top: 6000px;
-    left: 45px;
+    left: 37px;
     color: rgb(187, 255, 119);
 }
 .com1{
     position: absolute;
     top:5990px ;
-    left:-20px;
+    left:-25px;
     height: 480px;
     width: 410px;
 }
@@ -509,7 +513,7 @@ box-shadow: 0px 0px 10px chartreuse;
 .com2{
     position: absolute;
     top:6220px ;
-    left: -20px;
+    left: -25px;
     height: 480px;
     width: 410px;
 }
@@ -517,7 +521,7 @@ box-shadow: 0px 0px 10px chartreuse;
 .com3{
     position: absolute;
     top:6490px ;
-    left: -20px;
+    left: -25px;
     height: 480px;
     width: 410px;
 }
