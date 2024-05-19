@@ -457,8 +457,8 @@ box-shadow: 0px 0px 5px chartreuse;
 }
 
 .sr1{
-height: 190px;
-width: 190px;
+height: 125px;
+width: 125px;
 position: absolute;
 top: 5260px;
 left:130px;
@@ -470,8 +470,8 @@ box-shadow: 0px 0px 10px chartreuse;
 }
 
 .sr2{
-    height: 190px;
-    width: 190px;
+    height: 125px;
+    width: 125px;
     position: absolute;
     top: 5500px;
     left:130px;
@@ -481,8 +481,8 @@ box-shadow: 0px 0px 10px chartreuse;
     box-shadow: 0px 0px 10px chartreuse;
     }
     .sr3{
-        height: 190px;
-        width: 190px;
+        height: 125px;
+        width: 125px;
         position: absolute;
         top: 5750px;
         left:130px;
@@ -494,33 +494,32 @@ box-shadow: 0px 0px 10px chartreuse;
 
 .commentp{
     position: absolute;
-    top: 6150px;
-    font-size: 35px;
-    left: 24px;
-    color: chartreuse;
+    top: 6000px;
+    left: 55px;
+    color: rgb(187, 255, 119);
 }
 .com1{
     position: absolute;
-    top:6100px ;
-    left: -20px;
-    height: 580px;
-    width: 510px;
+    top:5990px ;
+    left:2px;
+    height: 480px;
+    width: 410px;
 }
 
 .com2{
     position: absolute;
-    top:6320px ;
-    left: -20px;
-    height: 580px;
-    width: 510px;
+    top:6220px ;
+    left: 2px;
+    height: 480px;
+    width: 410px;
 }
 
 .com3{
     position: absolute;
-    top:6590px ;
-    left: -20px;
-    height: 580px;
-    width: 510px;
+    top:6490px ;
+    left: 2px;
+    height: 480px;
+    width: 410px;
 }
 
 }
