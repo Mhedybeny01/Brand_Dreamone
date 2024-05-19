@@ -461,7 +461,7 @@ height: 125px;
 width: 125px;
 position: absolute;
 top: 5260px;
-left:130px;
+left:115px;
 border-style:ridge;
 border-radius: 50%;
 border-color: rgb(138, 255, 21) ;
@@ -474,7 +474,7 @@ box-shadow: 0px 0px 10px chartreuse;
     width: 125px;
     position: absolute;
     top: 5500px;
-    left:130px;
+    left:115px;
     border-style:ridge;
     border-radius: 50%;
     border-color: rgb(138, 255, 21) ;
@@ -485,7 +485,7 @@ box-shadow: 0px 0px 10px chartreuse;
         width: 125px;
         position: absolute;
         top: 5750px;
-        left:130px;
+        left:115px;
         border-style:ridge;
         border-radius: 50%;
         border-color: rgb(138, 255, 21) ;
@@ -495,13 +495,13 @@ box-shadow: 0px 0px 10px chartreuse;
 .commentp{
     position: absolute;
     top: 6000px;
-    left: 55px;
+    left: 45px;
     color: rgb(187, 255, 119);
 }
 .com1{
     position: absolute;
     top:5990px ;
-    left:2px;
+    left:-20px;
     height: 480px;
     width: 410px;
 }
@@ -509,7 +509,7 @@ box-shadow: 0px 0px 10px chartreuse;
 .com2{
     position: absolute;
     top:6220px ;
-    left: 2px;
+    left: -20px;
     height: 480px;
     width: 410px;
 }
@@ -517,7 +517,7 @@ box-shadow: 0px 0px 10px chartreuse;
 .com3{
     position: absolute;
     top:6490px ;
-    left: 2px;
+    left: -20px;
     height: 480px;
     width: 410px;
 }
