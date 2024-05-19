@@ -19,6 +19,10 @@ a i {
    color: rgb(218, 255, 180);;
    left: 84%;
 }
+a i:hover{
+    color: rgb(93, 184, 2);;
+}
+
 .a2 b {
     height: 30px;
     width: 70px;
@@ -29,6 +33,10 @@ a i {
     border-radius: 20px;
     left: 74%;
  }
+.a2 b:hover{
+    color: rgb(93, 184, 2);
+}
+
 
 .ft1{
     width: 100%;
@@ -78,6 +86,8 @@ color: white;
 }
 .email:hover{
     border: 1px solid rgb(93, 184, 2);
+    box-shadow: 0px 0px 5px chartreuse;
+   
 }
 .open{
     position: absolute;
@@ -87,15 +97,19 @@ color: white;
     height: 34px;
     border-radius: 5px;
     background-color: transparent;
-    border: 1px solid white;
+    border: 1px solid rgb(233, 255, 210);
     color: white;
+    
+
 }
 button:hover{
-    border: 1px solid rgb(218, 255, 180);
+    border: 1px solid rgb(93, 184, 2);
+    box-shadow: 0px 0px 5px chartreuse;
+    color: chartreuse;
 }
 .back2{
     background-color: black;
-    height: 6700px;
+    height: 7800px;
     position: relative;
     top: -5px;
 
@@ -125,6 +139,7 @@ button:hover{
     color:rgb(187, 255, 119); ;
     background-color: transparent;
     border: 1px solid  rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
 }
 .buy:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -151,6 +166,7 @@ button:hover{
     color:rgb(187, 255, 119); ;
     background-color: transparent;
     border: 1px solid  rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
 }
 .buy2:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -178,6 +194,7 @@ button:hover{
     color:rgb(187, 255, 119); ;
     background-color: transparent;
     border: 1px solid  rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
 }
 .buy3:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -205,6 +222,7 @@ button:hover{
     color:rgb(187, 255, 119); ;
     background-color: transparent;
     border: 1px solid  rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
 }
 .buy4:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -232,6 +250,7 @@ button:hover{
     color:rgb(187, 255, 119); ;
     background-color: transparent;
     border: 1px solid  rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
 }
 .buy5:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -266,6 +285,7 @@ button:hover{
     color:rgb(187, 255, 119); ;
     background-color: transparent;
     border: 1px solid  rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
 }
 .buy5:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -292,6 +312,7 @@ button:hover{
     color:rgb(187, 255, 119); ;
     background-color: transparent;
     border: 1px solid  rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
 }
 .buy11:hover{
     border: 1px solid  rgb(157, 255, 59);
@@ -323,6 +344,7 @@ height: 30px;
 width: 80px;
 border-radius: 10px;
 color: rgb(187, 255, 119);
+box-shadow: 0px 0px 5px chartreuse;
 }
 .buyCAP1:hover{
     border: 1px solid rgb(138, 255, 21);
@@ -351,6 +373,7 @@ color: rgb(187, 255, 119);
     width: 80px;
     border-radius: 10px;
     color: rgb(187, 255, 119);
+    box-shadow: 0px 0px 5px chartreuse;
     }
     .buyCAP2:hover{
         border: 1px solid rgb(138, 255, 21);
@@ -380,6 +403,7 @@ color: rgb(187, 255, 119);
         width: 80px;
         border-radius: 10px;
         color: rgb(187, 255, 119);
+        box-shadow: 0px 0px 5px chartreuse;
         }
         .buyCAP3:hover{
             border: 1px solid rgb(138, 255, 21);
@@ -410,17 +434,100 @@ color: rgb(187, 255, 119);
                 width: 80px;
                 border-radius: 10px;
                 color: rgb(187, 255, 119);
+                box-shadow: 0px 0px 5px chartreuse;
             }
             .buyCAP1:hover{
                 border: 1px solid rgb(138, 255, 21);
             }
 
+.bigt{
+    display: none;
+}
+.link1{
+    display: none;
+}
+.link2{
+    display: none;
+}
+.link3{
+    display: none;
+}
+.link4{
+    display: none;
+}
 
-
-
-
+.sr1{
+height: 190px;
+width: 190px;
+position: absolute;
+top: 5260px;
+left:130px;
+border-style:ridge;
+border-radius: 50%;
+border-color: rgb(138, 255, 21) ;
+box-shadow: 0px 0px 10px chartreuse;
 
 }
+
+.sr2{
+    height: 190px;
+    width: 190px;
+    position: absolute;
+    top: 5500px;
+    left:130px;
+    border-style:ridge;
+    border-radius: 50%;
+    border-color: rgb(138, 255, 21) ;
+    box-shadow: 0px 0px 10px chartreuse;
+    }
+    .sr3{
+        height: 190px;
+        width: 190px;
+        position: absolute;
+        top: 5750px;
+        left:130px;
+        border-style:ridge;
+        border-radius: 50%;
+        border-color: rgb(138, 255, 21) ;
+        box-shadow: 0px 0px 10px chartreuse;
+        }
+
+.commentp{
+    position: absolute;
+    top: 6150px;
+    font-size: 35px;
+    left: 24px;
+    color: chartreuse;
+}
+.com1{
+    position: absolute;
+    top:6100px ;
+    left: -20px;
+    height: 580px;
+    width: 510px;
+}
+
+.com2{
+    position: absolute;
+    top:6320px ;
+    left: -20px;
+    height: 580px;
+    width: 510px;
+}
+
+.com3{
+    position: absolute;
+    top:6590px ;
+    left: -20px;
+    height: 580px;
+    width: 510px;
+}
+
+}
+
+
+
+
 @media screen and (min-width:481px) {
     body {
         font-family: Arial, sans-serif;
