@@ -1,94 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="Dreamone.css">
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DREAMONE</title>
-    
+    <title>Weather App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="app.css">
 </head>
 <body>
-  <div class="back1">
-   
-    <img src="ft3.png" class="ft1">
-    <a href="" class="dream"><img src="logodream1.png" class="Logodream"></a>
-    <a href="" class="a2"><b class="fa-regular fa-circle-question"></b></a>
-    <a href=""><i class="fa-solid fa-bag-shopping"></i></a>
-    <h2 class="title1">DreamOne Fashion  Style Dreams</h2>
-    <h3>Elevate your style with DreamOne Fashion.<br> Discover our curated collection where dreams<br> meet fashion. Find your signature look today</h3>
-    <input type="email" placeholder="E=mail" class="email">
-    <button class="open">OPEN</button>  
-</div>
-<div class="back2">
+    
+    <div class="container">
+        <h1>Weather App</h1>
+        <input type="text" id="city" placeholder="Enter city name">
+        <button id="getWeather"><i class="fa-solid fa-magnifying-glass"></i></button>
+        <div id="weatherInfo" class="weather-info">
+           
+            <h2 id="cityName">Morroco  <i class="fa-solid fa-location-crosshairs"></i></h2>
+            <img src="sun.png" id="sun">
 
-</div>
-<a href="" class="link1">HOME</a>
-<a href="" class="link2">SERVICE</a>
-<a href="" class="link3">ABOUT</a>
-<a href="" class="link4">CANTACT</a>
+            <p id="temperature">22°C</p>
 
-  <h2 class="tst1">THE T-SHIRTS DREAMONE</h2>
-  <img src="drm.png" class="bigt" >
-    <img src="ts2.png" class="ts1">
-    <h2 class="price1">T-SHIRT DESIGN BLACK <br> $14</h2>
-    <button class="buy">BUY</button>
+            <div id="cls1">
+                <p id="weather" class="p1">8.55km/h</p>
+                <img src="win.png " id="speed">
+            </div>
+            <div id="cls2">
+                <p id="humidity">22%</p>
+                <img src="wth.png" id="nisba">
+            </div>
 
-    <img src="ts4.png" class="ts2">
-    <h2 class="price2">T-SHIRT DESIGN WHITE <br> $14</h2>
-    <button class="buy2">BUY</button>
-
-    <img src="ts6.png" class="ts3">
-    <h2 class="price3">T-SHIRT DESIGN WHITE <br> $14</h2>
-    <button class="buy3">BUY</button>
-
-    <img src="ts7.png" class="ts4">
-    <h2 class="price4">T-SHIRT DESIGN WHITE <br> $14</h2>
-    <button class="buy4">BUY</button>
-
-    <img src="ts8.png" class="ts5">
-    <h2 class="price5">T-SHIRT DESIGN WHITE <br> $14</h2>
-    <button class="buy5">BUY</button>
- 
-    <h2 class="boys">BOYS T-SHIRTS DREAMONE </h2>
-    <img src="ts5.png" class="ts6">
-    <h2 class="price6">T-SHIRT DESIGN WHITE <br> $12</h2>
-    <button class="buy6">BUY</button>
-
-    <img src="TS11.png" class="ts11">
-    <h2 class="price11">T-SHIRT DESIGN WHITE <br> $12</h2>
-    <button class="buy11">BUY</button>
-
-    <h2 class="caps">THE BEST CAPS DREAMONE</h2>
-
-    <img src="CAP1.png" class="CAP1">
-    <h2 class="CAPE1">CAP BLACK <br> $12</h2>
-    <button class="buyCAP1">BUY</button>
-
-    <img src="CAP4.png" class="CAP2">
-    <h2 class="CAPE2">CAP BLACK<br> $12</h2>
-    <button class="buyCAP2">BUY</button>
-
-    <img src="CAP3.png" class="CAP3">
-    <h2 class="CAPE3">CAP WHITE<br> $12</h2>
-    <button class="buyCAP3">BUY</button>
-
-    <img src="CAP2.png" class="CAP4">
-    <h2 class="CAPE4">CAP ORANGE <br> $12</h2>
-    <button class="buyCAP4">BUY</button>
-    <img src="sr1.png" class="sr1">
-    <img src="sr2.png" class="sr2">
-    <img src="sr3.png" class="sr3">
-    <h2 class="commentp">CUSTOMER COMMENTS</h2>
-    <img src="c1.png" class="com1">
-    <img src="c2.png" class="com2">
-    <img src="c3.png" class="com3">
-<div class="footer">
-
-</div>
-
-
-
-</div>
+           
+            
+          
+        </div>
+    </div>
+    <script src="app.js"></script>
 </body>
 </html>
